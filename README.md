@@ -3,15 +3,15 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%" style="background-color:#1e1e1e; border-radius:10px; padding:15px;">
+      <td width="60%" valign="top">
         <h3 align="left">👋 Hey there! I'm <span style="color:#00BFFF;">Ryan D'costa</span></h3>
         <p align="left">
-          <b>💡 Data Enthusiast</b> with a passion for turning raw data into meaningful insights.<br><br>
-          I specialize in <b>Data Analysis</b> and <b>Data Engineering</b>, combining analytical thinking with modern tools to create efficient data-driven solutions.<br><br>
-          Always learning, always building 🚀
+          <b>💡 Data Enthusiast</b> passionate about transforming raw data into meaningful insights.<br><br>
+          Skilled in <b>Data Analysis</b> and <b>Data Engineering</b>, I enjoy designing efficient, scalable data workflows and analytical solutions.<br><br>
+          Always curious, always building 🚀
         </p>
       </td>
-      <td width="40%" align="center">
+      <td width="40%" align="right">
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
       </td>
     </tr>
@@ -32,4 +32,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ryanixon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
