@@ -1,21 +1,17 @@
 # 💫 About Me:
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h3 align="left">👋 Hey there! I'm <span style="color:#00BFFF;">Ryan D'costa</span></h3>
-        <p align="left">
-          <b>💡 Data Enthusiast</b> passionate about transforming raw data into meaningful insights.<br><br>
-          Skilled in <b>Data Analysis</b> and <b>Data Engineering</b>, I enjoy designing efficient, scalable data workflows and analytical solutions.<br><br>
-          Always curious, always building 🚀
-        </p>
-      </td>
-      <td width="40%" align="right">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left" style="flex: 1;">
+    <h3>👋 Hey there! I'm <span style="color:#00BFFF;">Ryan D'costa</span></h3>
+    <p>
+      <b>💡 Data Enthusiast</b> passionate about transforming raw data into meaningful insights.<br><br>
+      Skilled in <b>Data Analysis</b> and <b>Data Engineering</b>, I enjoy designing efficient, scalable data workflows and analytical solutions.<br><br>
+      Always curious, always building 🚀
+    </p>
+  </div>
+  <div align="right" style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
+  </div>
 </div>
 
 ## 🌐 Socials:
