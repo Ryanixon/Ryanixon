@@ -1,10 +1,18 @@
 # 💫 About Me:
-Hey, I am Ryan D'costa<br>A Data Enthusiast.<br>Data Analysis and Data Engineering.
+<table>
+<tr>
+<td>
 
-<!-- Add your GIF image here -->
-<p align="right">
+Hey, I am Ryan D'costa<br>
+A Data Enthusiast.<br>
+Data Analysis and Data Engineering.
+
+</td>
+<td>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
-</p>
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryandcosta27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rndcosta27@gmail.com) 
@@ -21,6 +29,3 @@ Hey, I am Ryan D'costa<br>A Data Enthusiast.<br>Data Analysis and Data Engineeri
 [![](https://visitcount.itsvg.in/api?id=Ryanixon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
