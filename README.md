@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I am Ryan D'costa<br>A Data Enthusiast.<br>Data Analysis and Data Engineering.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryandcosta27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rndcosta27@gmail.com) 
