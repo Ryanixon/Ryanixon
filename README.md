@@ -2,7 +2,7 @@
 Hey, I am Ryan D'costa<br>A Data Enthusiast.<br>Data Analysis and Data Engineering.
 
 <!-- Add your GIF image here -->
-<p align="center">
+<p align="right">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Programmer GIF">
 </p>
 
