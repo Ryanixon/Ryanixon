@@ -1,18 +1,22 @@
 # 💫 About Me:
-<table>
-<tr>
-<td>
 
-Hey, I am Ryan D'costa<br>
-A Data Enthusiast.<br>
-Data Analysis and Data Engineering.
-
-</td>
-<td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
-</td>
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" style="background-color:#1e1e1e; border-radius:10px; padding:15px;">
+        <h3 align="left">👋 Hey there! I'm <span style="color:#00BFFF;">Ryan D'costa</span></h3>
+        <p align="left">
+          <b>💡 Data Enthusiast</b> with a passion for turning raw data into meaningful insights.<br><br>
+          I specialize in <b>Data Analysis</b> and <b>Data Engineering</b>, combining analytical thinking with modern tools to create efficient data-driven solutions.<br><br>
+          Always learning, always building 🚀
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Programmer GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryandcosta27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rndcosta27@gmail.com) 
