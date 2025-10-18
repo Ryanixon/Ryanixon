@@ -1,3 +1,8 @@
+<!-- 🖼️ Banner Image -->
+<p align="center">
+  <img src="https://github.com/Ryanixon/Ryanixon/blob/main/github-header-banner.png?raw=true" alt="Ryan D'costa Banner" width="100%">
+</p>
+
 # 💫 About Me:
 
 <div align="center">
@@ -34,4 +39,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
